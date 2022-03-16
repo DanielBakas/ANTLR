@@ -1,0 +1,3 @@
+int variable
+variable = 1
+variable + 1
